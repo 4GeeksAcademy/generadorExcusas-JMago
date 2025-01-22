@@ -26,3 +26,5 @@ let excusa = (quien+" ")+(accion+" ")+(que+" ")+(cuando+" ");
 
 
 };
+
+console.log(excusa)
